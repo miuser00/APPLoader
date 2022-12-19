@@ -1,0 +1,20 @@
+V0.5
+Data2022-12-19 
+修正下载不到文件，报错信息闪关的bug
+修正当应用程序目录中包含空格时解压缩文件失败的bug
+修正目录有空格时自身更新失败的bug
+
+Ver: 0.4
+Date: 2022-12-08
+1. OTA Package Generator V0.11
+	新增打包文件的程序启动路径、程序名，供APPLoader使用
+	新增生成config.xml功能
+	新增检测是否包裹BinApp预下载资源，如果有则优先解压预下载资源到下载目录
+	更新了生成目录名，发布目录改为RelApp，升级包目录改为RelPack
+	新增发布时复制文件config.xml到App_Loader的config目录
+	预览config.xml和update的内容方式由记事本打开改为Log记录
+	新增自动保存上次的升级配置信息的功能
+2. APP Loader V0.4
+	新增运行参数从Loader传递到启动主程序
+	新增优先读取外部config.xml功能
+	增加把升级包预下载到升级目录的功能

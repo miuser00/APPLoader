@@ -1,0 +1,10 @@
+C:\OneDrive\Sandbox\App_Updater\App_Updater\bin\Debug\App_Updater.exe.config
+C:\OneDrive\Sandbox\App_Updater\App_Updater\bin\Debug\App_Updater.exe
+C:\OneDrive\Sandbox\App_Updater\App_Updater\bin\Debug\App_Updater.pdb
+C:\OneDrive\Sandbox\App_Updater\App_Updater\obj\Debug\App_Updater.csproj.AssemblyReference.cache
+C:\OneDrive\Sandbox\App_Updater\App_Updater\obj\Debug\App_Updater.Form1.resources
+C:\OneDrive\Sandbox\App_Updater\App_Updater\obj\Debug\App_Updater.Properties.Resources.resources
+C:\OneDrive\Sandbox\App_Updater\App_Updater\obj\Debug\App_Updater.csproj.GenerateResource.cache
+C:\OneDrive\Sandbox\App_Updater\App_Updater\obj\Debug\App_Updater.csproj.CoreCompileInputs.cache
+C:\OneDrive\Sandbox\App_Updater\App_Updater\obj\Debug\App_Updater.exe
+C:\OneDrive\Sandbox\App_Updater\App_Updater\obj\Debug\App_Updater.pdb

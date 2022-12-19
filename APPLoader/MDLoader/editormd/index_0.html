@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8" />
+        <title>Simple example - Editor.md examples</title>
+        <link rel="stylesheet" href="../editormd/css/style.css" />
+        <link rel="stylesheet" href="../editormd/css/editormd.css" />
+    </head>
+    <body>
+        <div id="layout">
+ 
+            <div id="test-editormd">
+                <textarea style="display:none;">
+</textarea>
+            </div>
+        </div>
+        <script src="../editormd/js/jquery.min.js"></script>
+        <script src="../editormd/editormd.min.js"></script>
+        <script type="text/javascript">
+			var testEditor;
+
+            $(function() {
+                testEditor = editormd("test-editormd", {
+                    id      : "test-editormd",
+                    width   : "100%",
+                    height  : 200,
+                    syncScrolling : "single",
+                    path    : "../editormd/lib/",
+                    placeholder :"请在这写Markdown代码...",
+                    toolbarIcons : function() {
+                        // Or return editormd.toolbarModes[name]; // full, simple, mini
+                        // Using "||" set icons align right.
+                        return [            "undo", "redo", "|", 
+                                            "search", "|",
+                                            "bold", "del", "italic", "quote", "ucwords", "uppercase", "lowercase", "|", 
+                                            "h1", "h2", "h3", "|", 
+                                            "list-ul", "list-ol", "hr", "|",
+                                            "link", "reference-link", "image", "code", "preformatted-text", "code-block", "table", "datetime","html-entities", "pagebreak", "|",
+                                            "watch", "preview", "|",
+                                            "help"]
+                    },
+                    htmlDecode      : "style,script,iframe", 
+                    taskList        : true,
+                    flowChart       : true, 
+                    sequenceDiagram : true,
+                    onchange : function() {   
+                        //alert(window.external);  
+                        window.external.OnContentChange();
+                        
+                    }
+                });
+                var w = $(document).height()
+                testEditor.height(w)
+                /*
+                // or
+                testEditor = editormd({
+                    id      : "test-editormd",
+                    width   : "90%",
+                    height  : 640,
+                    path    : "../editormd/lib/"
+                });
+                */
+            });
+            //var int=self.setInterval("insertText()",1000);
+            function insertText(txt)
+            {
+                testEditor.insertValue(txt);
+            }
+
+            function setClientSize(width,height)
+            {
+                testEditor.width(width)
+                testEditor.height(height)
+            }
+            function Redraw()
+            {
+                //alert("WebBrowser call!");
+                
+            }
+            function Preview()
+            {
+
+            }
+
+        </script>
+    </body>
+</html>

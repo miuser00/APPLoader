@@ -1,0 +1,17 @@
+C:\CSharpCodes\AutoUpdater\AutoUpdater\obj\Debug\ResolveAssemblyReference.cache
+C:\CSharpCodes\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+C:\CSharpCodes\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\CSharpCodes\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\CSharpCodes\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\CSharpCodes\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.FormUpdate.resources
+C:\CSharpCodes\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\CSharpCodes\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.AssemblyReference.cache
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.FormUpdate.resources
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.cache
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.CoreCompileInputs.cache
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb

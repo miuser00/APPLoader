@@ -1,0 +1,11 @@
+C:\OneDrive\project\LuaStudio\MIDE\App\AppLoader.exe.config
+C:\OneDrive\project\LuaStudio\MIDE\App\AppLoader.exe
+C:\OneDrive\project\LuaStudio\MIDE\App\AppLoader.pdb
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\AppLoader.DownloadForm.resources
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\AppLoader.Properties.Resources.resources
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\AppLoader.UpgradeForm.resources
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\App_Loader.csproj.GenerateResource.cache
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\App_Loader.csproj.CoreCompileInputs.cache
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\AppLoader.exe
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\AppLoader.pdb
+C:\OneDrive\project\LuaStudio\MIDE\Loader\APP_Loader\obj\Release\App_Loader.csproj.AssemblyReference.cache

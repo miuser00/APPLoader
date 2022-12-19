@@ -1,0 +1,11 @@
+<AutoUpdater>
+  <UpdateInfo>
+    <UpdateTime Date="2014-2-21" />
+    <Version Num="1.0.0.0" />
+    <UpdateSize Size="32046" />
+  </UpdateInfo>
+  <UpdateFileList>
+    <UpdateFile>\K3SP.exe</UpdateFile>
+    <UpdateFile>\conf\menu.xml</UpdateFile>
+  </UpdateFileList>
+</AutoUpdater>

@@ -1,0 +1,2 @@
+Error	#2022-11-17 08:33:43 	>Source:{System} StackTrace:{   在 System.Net.WebClient.OpenRead(Uri address)
+   在 AutoUpdater.FormUpdate.getTheLastUpdateTime(String Dir) 位置 C:\OneDrive\Sandbox\SimpleWinformFrame-master\自动更新程序\AutoUpdater\AutoUpdater\FormUpdate.cs:行号 493} Message:{无法连接到远程服务器}

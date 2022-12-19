@@ -1,0 +1,8 @@
+C:\CSharpCodes\UpdateList\UpdateList\obj\Debug\ResolveAssemblyReference.cache
+C:\CSharpCodes\UpdateList\UpdateList\obj\Debug\UpdateList.FormMain.resources
+C:\CSharpCodes\UpdateList\UpdateList\obj\Debug\UpdateList.Properties.Resources.resources
+C:\CSharpCodes\UpdateList\UpdateList\obj\Debug\UpdateList.csproj.GenerateResource.Cache
+C:\CSharpCodes\UpdateList\UpdateList\bin\Debug\UpdateList.exe
+C:\CSharpCodes\UpdateList\UpdateList\bin\Debug\UpdateList.pdb
+C:\CSharpCodes\UpdateList\UpdateList\obj\Debug\UpdateList.exe
+C:\CSharpCodes\UpdateList\UpdateList\obj\Debug\UpdateList.pdb

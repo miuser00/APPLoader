@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ProjectGuid>{FB9E7E6B-B19F-4F37-A708-2996190CEF13}</ProjectGuid>
+        <OutputType>library</OutputType>
+        <TargetFrameworks>net45;netcoreapp3.1;net5.0-windows;net6.0-windows</TargetFrameworks>
+        <UseWindowsForms>true</UseWindowsForms>
+        <UseWpf>true</UseWpf>
+        <RootNamespace>AutoUpdaterDotNET</RootNamespace>
+        <AssemblyTitle>AutoUpdater.NET</AssemblyTitle>
+        <Company>RBSoft</Company>
+        <Product>AutoUpdater.NET</Product>
+        <Copyright>Copyright © 2012-2022 RBSoft</Copyright>
+        <Version>1.7.6.0</Version>
+        <AssemblyVersion>1.7.6.0</AssemblyVersion>
+        <FileVersion>1.7.6.0</FileVersion>
+        <SignAssembly>false</SignAssembly>
+        <AssemblyOriginatorKeyFile>AutoUpdater.NET.snk</AssemblyOriginatorKeyFile>
+        <NeutralLanguage>en</NeutralLanguage>
+        <PackageId>Autoupdater.NET.Official</PackageId>
+        <IncludeSymbols>true</IncludeSymbols>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageVersion>1.7.6.0</PackageVersion>
+        <Title>AutoUpdater.NET</Title>
+        <Authors>rbsoft</Authors>
+        <Description>AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their WinForms or WPF application projects.</Description>
+        <PackageProjectUrl>https://github.com/ravibpatel/AutoUpdater.NET</PackageProjectUrl>
+        <PackageTags>autoupdate updater c# vb wpf winforms</PackageTags>
+        <PackageReleaseNotes>https://github.com/ravibpatel/AutoUpdater.NET/releases</PackageReleaseNotes>
+        <PackageOutputPath>build</PackageOutputPath>
+        <DocumentationFile>$(OutputPath)\$(Configuration)\AutoUpdater.NET.xml</DocumentationFile>
+        <LangVersion>default</LangVersion>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+        <OutputPath>build\lib</OutputPath>
+        <DebugType>pdbonly</DebugType>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+        <DebugType>full</DebugType>
+    </PropertyGroup>
+    <ItemGroup Condition=" '$(TargetFramework)' == 'net45' ">
+        <Reference Include="System" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Drawing" />
+        <Reference Include="System.Windows.Forms" />
+        <Reference Include="System.Xml" />
+        <Reference Include="WindowsBase" />
+        <Reference Include="PresentationFramework" />
+        <Reference Include="System.Xaml" />
+        <Reference Include="System.Runtime.Serialization" />
+        <PackageReference Include="Resource.Embedder" Version="1.2.8" PrivateAssets="All" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.1418.22" />
+    </ItemGroup>
+</Project>

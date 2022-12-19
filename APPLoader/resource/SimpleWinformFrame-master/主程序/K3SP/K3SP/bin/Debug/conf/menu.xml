@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<modules id="0" nodeName="K3补充程序">
+  <module id="10" nodeName="系统管理中心" moduleName="SysManage" pid="0">
+    <node id="1001" nodeName="用户维护" formName="FormUserMaintenance" pid="10" />
+    <node id="1002" nodeName="角色维护" formName="FormRoleMaintenance" pid="10" />
+    <node id="1003" nodeName="用户->角色" formName="FormUserToRole" pid="10" />
+  </module>
+  <module id="11" nodeName="计划排产" moduleName="PlanScheduling" pid="0">
+    <node id="1101" nodeName="日计划" formName="FormDayPlans" pid="11" />
+    <node id="1102" nodeName="现场计划" formName="FormSitePplan" pid="11" />
+    <node id="1103" nodeName="计划调度" formName="FormPlanDispatch" pid="11" />
+    <node id="1104" nodeName="排产演算" formName="FormSchedulingAlgorithms" pid="11" />
+    <node id="1105" nodeName="计划打印" formName="FormPlanPrint" pid="11" />
+  </module>
+</modules>

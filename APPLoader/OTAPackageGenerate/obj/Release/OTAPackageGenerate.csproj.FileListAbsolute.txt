@@ -1,0 +1,13 @@
+C:\OneDrive\project\LuaStudio\MIDE\App_packageGenerator\OTAPackageGenerate.exe.config
+C:\OneDrive\project\LuaStudio\MIDE\App_packageGenerator\OTAPackageGenerate.exe
+C:\OneDrive\project\LuaStudio\MIDE\App_packageGenerator\OTAPackageGenerate.pdb
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.csproj.AssemblyReference.cache
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.Form1.resources
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.Properties.Resources.resources
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.SetupForm.resources
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.WaitForm.resources
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.csproj.GenerateResource.cache
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.csproj.CoreCompileInputs.cache
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.csproj.CopyComplete
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.exe
+C:\OneDrive\project\LuaStudio\MIDE\Loader\OTAPackageGenerate\obj\Release\OTAPackageGenerate.pdb

@@ -1,0 +1,47 @@
+Debug	#2014-02-24 09:47:26 	>调试
+Info	#2014-02-24 09:47:26 	>信息
+Warning	#2014-02-24 09:47:26 	>警告
+Error	#2014-02-24 09:47:26 	>错误
+SQL	#2014-02-24 09:47:26 	>SQL信息
+Debug	#2014-02-24 09:53:00 	>调试
+Info	#2014-02-24 09:53:00 	>信息
+Warning	#2014-02-24 09:53:00 	>警告
+Error	#2014-02-24 09:53:00 	>错误
+SQL	#2014-02-24 09:53:00 	>SQL信息
+Debug	#2014-02-24 09:55:03 	>调试
+Info	#2014-02-24 09:55:03 	>信息
+Warning	#2014-02-24 09:55:03 	>警告
+Error	#2014-02-24 09:55:03 	>错误
+SQL	#2014-02-24 09:55:03 	>SQL信息
+Debug	#2014-02-24 09:56:42 	>调试
+Info	#2014-02-24 09:56:42 	>信息
+Warning	#2014-02-24 09:56:42 	>警告
+Error	#2014-02-24 09:56:42 	>错误
+SQL	#2014-02-24 09:56:42 	>SQL信息
+Error	#2014-02-24 09:56:43 	>Source:{System} StackTrace:{   在 System.Net.WebClient.OpenRead(Uri address)
+   在 System.Net.WebClient.OpenRead(String address)
+   在 AutoUpdater.FormUpdate.getTheLastUpdateTime(String Dir) 位置 C:\CSharpCodes\AutoUpdater\AutoUpdater\FormUpdate.cs:行号 491} Message:{远程服务器返回错误: (404) 未找到。}
+Debug	#2014-02-24 09:58:59 	>调试
+Info	#2014-02-24 09:58:59 	>信息
+Warning	#2014-02-24 09:58:59 	>警告
+Error	#2014-02-24 09:58:59 	>错误
+SQL	#2014-02-24 09:58:59 	>SQL信息
+Error	#2014-02-24 09:59:00 	>Source:{System} StackTrace:{   在 System.Net.WebClient.OpenRead(Uri address)
+   在 System.Net.WebClient.OpenRead(String address)
+   在 AutoUpdater.FormUpdate.getTheLastUpdateTime(String Dir) 位置 C:\CSharpCodes\AutoUpdater\AutoUpdater\FormUpdate.cs:行号 491} Message:{远程服务器返回错误: (404) 未找到。}
+Error	#2014-02-24 10:07:10 	>Source:{System} StackTrace:{   在 System.Net.WebClient.OpenRead(Uri address)
+   在 System.Net.WebClient.OpenRead(String address)
+   在 AutoUpdater.FormUpdate.getTheLastUpdateTime(String Dir) 位置 C:\CSharpCodes\AutoUpdater\AutoUpdater\FormUpdate.cs:行号 493} Message:{远程服务器返回错误: (404) 未找到。}
+Error	#2014-02-24 10:45:55 	>Source:{System} StackTrace:{   在 System.Net.WebClient.OpenRead(Uri address)
+   在 System.Net.WebClient.OpenRead(String address)
+   在 AutoUpdater.FormUpdate.getTheLastUpdateTime(String Dir) 位置 C:\CSharpCodes\AutoUpdater\AutoUpdater\FormUpdate.cs:行号 493} Message:{远程服务器返回错误: (404) 未找到。}
+Error	#2014-02-24 12:34:58 	>Source:{mscorlib} StackTrace:{   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.File.Move(String sourceFileName, String destFileName)
+   在 AutoUpdater.FormUpdate.<updaterStart>b__1(Object wcsender, AsyncCompletedEventArgs ex)} Message:{当文件已存在时，无法创建该文件。
+}
+Error	#2014-02-24 12:34:59 	>Source:{mscorlib} StackTrace:{   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.File.Move(String sourceFileName, String destFileName)
+   在 AutoUpdater.FormUpdate.<updaterStart>b__1(Object wcsender, AsyncCompletedEventArgs ex)} Message:{当文件已存在时，无法创建该文件。
+}
