@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Upgrade_XML_Info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Version>0.6</Version>
-  <Version_tail />
-  <PackageUrl>https://gitee.com/miuser00/md-fileloader/releases/download/1000/MDLoader_ver0.6.pack</PackageUrl>
-  <UpgradeMDFileUrl>https://gitee.com/miuser00/md-fileloader/releases/download/1000/upgrade.md</UpgradeMDFileUrl>
-  <SkipFile />
-</Upgrade_XML_Info>
